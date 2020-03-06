@@ -24,7 +24,7 @@ Below is the process flow
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ```
-git clone https://github.com/kashishshah881/data-pipeline.git
+git clone https://github.com/Dhruv-Panchal/CSYE-7245.git
 
 ```
 
